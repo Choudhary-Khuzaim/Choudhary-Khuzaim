@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Muhammad Khuzaim Sajjad</h1>
+  <h1>Hi 👋, I'm Muhammad Khuzaim Sajjad</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Unity+Game+Developer;Future+Cloud+%26+Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
@@ -31,6 +31,17 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 
 ### 🎯 Leadership & Community
 - 🗣️ **Communication & Management:** Served as the Class Representative for my Software Engineering cohort (2022-2026), successfully bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
+
+---
+
+## 💼 Professional Experience
+
+- 💻 **Software Developer** | *Hashmi Innovation* <br>
+  *(Feb 2025 - Oct 2025)*
+- ✈️ **Mobile Developer Intern** | *Pakistan International Airlines (PIA)* <br>
+  *(Jul 2024 - Aug 2024)*
+- 🛠️ **Odoo Intern** | *Pakistan Aeronautical Complex (PAC) Kamra* <br>
+  *(Jan 2024 - Feb 2024)*
 
 ---
 
