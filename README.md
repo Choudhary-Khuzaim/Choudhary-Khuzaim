@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Muhammad Khuzaim Sajjad</h1>
+  <h1>Hi 👋, I'm Muhammad Khuzaim Sajjad</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Unity+Game+Developer;Future+Cloud+%26+Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
@@ -38,18 +38,18 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 
 <p align="center">
   <a href="https://github.com/Choudhary-Khuzaim/GroceryApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=GroceryApp&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GroceryApp" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=GroceryApp&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GroceryApp" width="48%" />
   </a>
   <a href="https://github.com/Choudhary-Khuzaim/Rolling-Wheel-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=Rolling-Wheel-Game&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Rolling Wheel Game" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Rolling-Wheel-Game&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Rolling Wheel Game" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Choudhary-Khuzaim/khabristan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=khabristan&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Khabristan" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=khabristan&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Khabristan" width="48%" />
   </a>
   <a href="https://github.com/Choudhary-Khuzaim/Domotics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=Domotics&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Domotics" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Domotics&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Domotics" width="48%" />
   </a>
 </p>
 
@@ -73,12 +73,12 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 ## 📊 Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Choudhary-Khuzaim&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Choudhary-Khuzaim&background=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Choudhary-Khuzaim&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Choudhary-Khuzaim&background=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choudhary-Khuzaim&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Choudhary-Khuzaim&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="50%" />
 </p>
 
 ---
