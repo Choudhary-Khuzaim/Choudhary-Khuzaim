@@ -56,16 +56,8 @@ Here are some of the key repositories I've been working on. Feel free to explore
 ## 🏆 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Choudhary-Khuzaim&theme=gruvbox&no-frame=true&no-bg=false&margin-w=15" alt="Khuzaim's Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Choudhary-Khuzaim&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="Khuzaim's GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=Choudhary-Khuzaim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Choudhary-Khuzaim&theme=gruvbox&hide_border=false" alt="Khuzaim's Activity Graph"/>
 </p>
 
 <p align="center">
