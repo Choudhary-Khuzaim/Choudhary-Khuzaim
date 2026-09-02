@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Muhammad Khuzaim Sajjad</h1>
-<h3 align="center">Software Engineer | Mobile & Web Developer | Unity Game Developer</h3>
+<div align="center">
+  <h1>Hi, I'm Muhammad Khuzaim Sajjad</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Unity+Game+Developer;Future+Cloud+%26+Cybersecurity+Specialist" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://khuzaaim-portfolio.vercel.app" target="_blank">
@@ -21,20 +23,31 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 - 🎮 **Game Development:** Designing and developing engaging 3D interactive experiences using **Unity and C#**.
 - ☁️ **Cloud & Infrastructure:** Hands-on experience with containerization, virtual environments, and scalable databases using **Docker, Linux, Cloud Firestore, and Firebase**.
 - 🤖 **Data & AI:** Familiar with machine learning and data science workflows leveraging **Pandas, NumPy, Scikit-learn, and NLTK**.
-- 🌱 **Currently Focusing On:** Preparing for advanced studies in Cloud Computing and Cybersecurity, while expanding my full-stack portfolio.
+
+### 🎯 Leadership & Future Goals
+- 🗣️ **Leadership & Communication:** Served as the Class Representative for my Software Engineering cohort (2022-2026), bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
+- 🎓 **Next Steps:** Expanding my technical horizons by preparing for a Master's degree in Cloud Computing/Cybersecurity to build highly secure and scalable global applications.
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some of the key repositories I've been working on. Feel free to explore the code!
-
-| 📌 Project | 📝 Description | 🔗 Link |
-| :--- | :--- | :--- |
-| 🛒 **GroceryApp** | A feature-rich mobile application tailored for seamless and intuitive grocery shopping. | [View Repository](https://github.com/Choudhary-Khuzaim/GroceryApp.git) |
-| 🎮 **Rolling Wheel** | An engaging, interactive 3D game developed entirely using Unity and C#. | [View Repository](https://github.com/Choudhary-Khuzaim/Rolling-Wheel-Game.git) |
-| 📰 **Khabristan** | A modern platform designed for delivering real-time news and information updates. | [View Repository](https://github.com/Choudhary-Khuzaim/khabristan.git) |
-| 🏠 **Domotics** | A smart home automation system architecture focused on IoT device management. | [View Repository](https://github.com/Choudhary-Khuzaim/Domotics.git) |
+<p align="center">
+  <a href="https://github.com/Choudhary-Khuzaim/GroceryApp">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=GroceryApp&theme=gruvbox" alt="GroceryApp" />
+  </a>
+  <a href="https://github.com/Choudhary-Khuzaim/Rolling-Wheel-Game">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Rolling-Wheel-Game&theme=gruvbox" alt="Rolling Wheel Game" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Choudhary-Khuzaim/khabristan">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=khabristan&theme=gruvbox" alt="Khabristan" />
+  </a>
+  <a href="https://github.com/Choudhary-Khuzaim/Domotics">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Domotics&theme=gruvbox" alt="Domotics" />
+  </a>
+</p>
 
 *(To see more of my work, including AI platforms like Rahzaan, Brandora, and e-commerce apps like DealZone, check out my [Portfolio](https://khuzaaim-portfolio.vercel.app)!)*
 
@@ -65,6 +78,12 @@ Here are some of the key repositories I've been working on. Feel free to explore
 </p>
 
 ---
+<h3 align="center">Let's Connect and Build Something Amazing! 🤝</h3>
+<p align="center">
+  <a href="mailto:muhammadkhuzaimsajjad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muhammadkhuzaimsajjad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=Choudhary-Khuzaim&icon=1&color=6" alt="Profile Views">
