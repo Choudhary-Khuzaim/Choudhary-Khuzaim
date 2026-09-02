@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Muhammad Khuzaim Sajjad</h1>
+  <h1>Hi, I'm Muhammad Khuzaim Sajjad</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Unity+Game+Developer;Future+Cloud+%26+Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
