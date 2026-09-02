@@ -21,7 +21,7 @@
 
 I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a strong foundation in building scalable mobile, web, and interactive applications. Driven by clean architecture, user-centric UI design, and continuous learning, I am always eager to collaborate on innovative software products and full-stack engineering projects.
 
-  > **Current Focus:** Expanding my full-stack architectures while actively preparing to pursue a **Master's in Cybersecurity at a public university in Germany (Winter 2027/28 intake)**.
+  > **Current Focus:** Expanding my full-stack architectures while actively preparing to pursue a **Master's in Cybersecurity from **Winter 2027/28 intake)**.
 
   - **Mobile Development:** Extensive experience working with **Flutter, Dart, Swift (iOS native with SwiftUI/MVVM), and React Native** to build seamless cross-platform and native apps.
   - **Web Development:** Architecting modern, responsive web platforms utilizing **Next.js, Tailwind CSS, Node.js, and Python**.
