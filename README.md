@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Muhammad Khuzaim Sajjad</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Unity+Game+Developer;Future+Cloud+%26+Cybersecurity+Specialist" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Muhammad Khuzaim Sajjad</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Unity+Game+Developer;Future+Cloud+%26+Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,23 +10,26 @@
   <a href="https://www.linkedin.com/in/muhammad-khuzaim-sajjad-539754250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:muhammadkhuzaimsajjad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ## 💫 About Me
 
-I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a strong foundation in building scalable mobile, web, and interactive applications. Driven by clean architecture, user-centric UI design, and continuous learning, I am always eager to collaborate on innovative software products and full-stack engineering projects.
+I am a **Software Engineering graduate from KIET** with a strong foundation in building scalable mobile, web, and interactive applications. Driven by clean architecture, user-centric UI design, and continuous learning, I am always eager to collaborate on innovative software products and full-stack engineering projects.
 
-- 📱 **Mobile Development:** Extensive experience working with **Flutter, Dart, Swift (iOS native with SwiftUI/MVVM), and React Native** to build seamless cross-platform and native apps.
-- 💻 **Web Development:** Architecting modern, responsive web platforms utilizing **Next.js, Tailwind CSS, Node.js, and Python**.
-- 🎮 **Game Development:** Designing and developing engaging 3D interactive experiences using **Unity and C#**.
-- ☁️ **Cloud & Infrastructure:** Hands-on experience with containerization, virtual environments, and scalable databases using **Docker, Linux, Cloud Firestore, and Firebase**.
-- 🤖 **Data & AI:** Familiar with machine learning and data science workflows leveraging **Pandas, NumPy, Scikit-learn, and NLTK**.
+### ⚡ Quick Facts
+- 🔭 **Currently working on:** Full-stack architectures, AI-driven platforms, and robust mobile engineering.
+- 🌱 **Currently learning:** Advanced Cloud Computing and Cybersecurity in preparation for Master's studies in Germany.
+- 👯 **Looking to collaborate on:** Open-source innovations, SaaS products, and next-gen mobile apps.
+- 💬 **Ask me about:** `Flutter`, `Next.js`, `Python`, `Docker`, and `Unity 3D`.
+- 🏍️ **When I'm not coding:** You can find me riding my Suzuki GS 150 SE or exploring new tech stacks!
 
-### 🎯 Leadership & Future Goals
-- 🗣️ **Leadership & Communication:** Served as the Class Representative for my Software Engineering cohort (2022-2026), bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
-- 🎓 **Next Steps:** Expanding my technical horizons by preparing for a Master's degree in Cloud Computing/Cybersecurity to build highly secure and scalable global applications.
+### 🎯 Leadership & Vision
+Served as the Class Representative for my Software Engineering cohort (2022-2026), bridging the gap between students and faculty while managing team dynamics. My next major milestone is mastering cloud infrastructure to build highly secure, global-scale applications.
 
 ---
 
@@ -34,22 +37,20 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 
 <p align="center">
   <a href="https://github.com/Choudhary-Khuzaim/GroceryApp">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=GroceryApp&theme=gruvbox" alt="GroceryApp" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=GroceryApp&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GroceryApp" width="48%" />
   </a>
   <a href="https://github.com/Choudhary-Khuzaim/Rolling-Wheel-Game">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Rolling-Wheel-Game&theme=gruvbox" alt="Rolling Wheel Game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=Rolling-Wheel-Game&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Rolling Wheel Game" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Choudhary-Khuzaim/khabristan">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=khabristan&theme=gruvbox" alt="Khabristan" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=khabristan&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Khabristan" width="48%" />
   </a>
   <a href="https://github.com/Choudhary-Khuzaim/Domotics">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Domotics&theme=gruvbox" alt="Domotics" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choudhary-Khuzaim&repo=Domotics&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Domotics" width="48%" />
   </a>
 </p>
-
-*(To see more of my work, including AI platforms like Rahzaan, Brandora, and e-commerce apps like DealZone, check out my [Portfolio](https://khuzaaim-portfolio.vercel.app)!)*
 
 ---
 
@@ -66,26 +67,24 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 
 ---
 
-## 🏆 GitHub Stats & Activity
+## 📊 Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Choudhary-Khuzaim&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="Khuzaim's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Choudhary-Khuzaim&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Choudhary-Khuzaim&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Choudhary-Khuzaim&background=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Choudhary-Khuzaim&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choudhary-Khuzaim&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&text_color=58a6ff" alt="Quote of the day" />
 </p>
 
 ---
-<h3 align="center">Let's Connect and Build Something Amazing! 🤝</h3>
-<p align="center">
-  <a href="mailto:muhammadkhuzaimsajjad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muhammadkhuzaimsajjad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Choudhary-Khuzaim&icon=1&color=6" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Choudhary-Khuzaim&icon=1&color=58a6ff&style=flat" alt="Profile Views">
   </a>
 </p>
