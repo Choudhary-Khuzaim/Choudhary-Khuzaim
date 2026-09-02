@@ -17,35 +17,35 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a strong foundation in building scalable mobile, web, and interactive applications. Driven by clean architecture, user-centric UI design, and continuous learning, I am always eager to collaborate on innovative software products and full-stack engineering projects.
 
-> 🚀 **Current Focus:** Expanding my full-stack architectures while actively preparing to pursue a **Master's in Cybersecurity at a public university in Germany (Winter 2027/28 intake)**.
+  > **Current Focus:** Expanding my full-stack architectures while actively preparing to pursue a **Master's in Cybersecurity at a public university in Germany (Winter 2027/28 intake)**.
 
-- 📱 **Mobile Development:** Extensive experience working with **Flutter, Dart, Swift (iOS native with SwiftUI/MVVM), and React Native** to build seamless cross-platform and native apps.
-- 💻 **Web Development:** Architecting modern, responsive web platforms utilizing **Next.js, Tailwind CSS, Node.js, and Python**.
-- 🎮 **Game Development:** Designing and developing engaging 3D interactive experiences using **Unity and C#**.
-- ☁️ **Cloud & Infrastructure:** Hands-on experience with containerization, virtual environments, and scalable databases using **Docker, Linux, Cloud Firestore, and Firebase**.
-- 🤖 **Data & AI:** Familiar with machine learning and data science workflows leveraging **Pandas, NumPy, Scikit-learn, and NLTK**.
+  - **Mobile Development:** Extensive experience working with **Flutter, Dart, Swift (iOS native with SwiftUI/MVVM), and React Native** to build seamless cross-platform and native apps.
+  - **Web Development:** Architecting modern, responsive web platforms utilizing **Next.js, Tailwind CSS, Node.js, and Python**.
+  - **Game Development:** Designing and developing engaging 3D interactive experiences using **Unity and C#**.
+  - **Cloud & Infrastructure:** Hands-on experience with containerization, virtual environments, and scalable databases using **Docker, Linux, Cloud Firestore, and Firebase**.
+  - **Data & AI:** Familiar with machine learning and data science workflows leveraging **Pandas, NumPy, Scikit-learn, and NLTK**.
 
-### 🎯 Leadership & Community
-- 🗣️ **Communication & Management:** Served as the Class Representative for my Software Engineering cohort (2022-2026), successfully bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
+### Leadership & Community
+  - **Communication & Management:** Served as the Class Representative for my Software Engineering cohort (2022-2026), successfully bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-- 💻 **Software Developer** | *Hashmi Innovation* <br>
+  - **Software Developer** | *Hashmi Innovation* <br>
   *(Feb 2025 - Oct 2025)*
-- ✈️ **Mobile Developer Intern** | *Pakistan International Airlines (PIA)* <br>
+  - **Mobile Developer Intern** | *Pakistan International Airlines (PIA)* <br>
   *(Jul 2024 - Aug 2024)*
-- 🛠️ **Odoo Intern** | *Pakistan Aeronautical Complex (PAC) Kamra* <br>
+  - **Odoo Intern** | *Pakistan Aeronautical Complex (PAC) Kamra* <br>
   *(Jan 2024 - Feb 2024)*
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/Choudhary-Khuzaim/GroceryApp">
@@ -68,7 +68,7 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -81,7 +81,7 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 
 ---
 
-## 📊 Developer Analytics
+## Developer Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Choudhary-Khuzaim&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" width="48%" />
