@@ -64,7 +64,9 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
   </a>
 </p>
 
-*(To see more of my work, including mobile and web applications like Rydo and MealMate, check out my [Portfolio](https://khuzaaim-portfolio.vercel.app)!)*
+<p align="center">
+  <sub><i>To see more of my work, including apps like <b>Rydo</b> and <b>MealMate</b>, visit my <a href="https://khuzaaim-portfolio.vercel.app">Portfolio</a>!</i></sub>
+</p>
 
 ---
 
@@ -93,6 +95,20 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 </p>
 
 ---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-khuzaim-sajjad-539754250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muhammadkhuzaimsajjad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://khuzaaim-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
