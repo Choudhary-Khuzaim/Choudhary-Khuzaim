@@ -21,26 +21,26 @@
 
 I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a strong foundation in building scalable mobile, web, and interactive applications. Driven by clean architecture, user-centric UI design, and continuous learning, I am always eager to collaborate on innovative software products and full-stack engineering projects.
 
-  > **Current Focus:** Expanding my full-stack architectures while actively preparing to pursue a **Master's in Cybersecurity** **(Winter 2027/28 intake)**.
+> **Current Focus:** Expanding my full-stack architectures while actively preparing to pursue a **Master's in Cybersecurity** **(Winter 2027/28 intake)**.
 
-  - **Mobile Development:** Extensive experience working with **Flutter, Dart, Swift (iOS native with SwiftUI/MVVM), and React Native** to build seamless cross-platform and native apps.
-  - **Web Development:** Architecting modern, responsive web platforms utilizing **Next.js, Tailwind CSS, Node.js, and Python**.
-  - **Game Development:** Designing and developing engaging 3D interactive experiences using **Unity and C#**.
-  - **Cloud & Infrastructure:** Hands-on experience with containerization, virtual environments, and scalable databases using **Docker, Linux, Cloud Firestore, and Firebase**.
-  - **Data & AI:** Familiar with machine learning and data science workflows leveraging **Pandas, NumPy, Scikit-learn, and NLTK**.
+- **Mobile Development:** Extensive experience working with **Flutter, Dart, Swift (iOS native with SwiftUI/MVVM), and React Native** to build seamless cross-platform and native apps.
+- **Web Development:** Architecting modern, responsive web platforms utilizing **Next.js, Tailwind CSS, Node.js, and Python**.
+- **Game Development:** Designing and developing engaging 3D interactive experiences using **Unity and C#**.
+- **Cloud & Infrastructure:** Hands-on experience with containerization, virtual environments, and scalable databases using **Docker, Linux, Cloud Firestore, and Firebase**.
+- **Data & AI:** Familiar with machine learning and data science workflows leveraging **Pandas, NumPy, Scikit-learn, and NLTK**.
 
 ### Leadership & Community
-  - **Communication & Management:** Served as the Class Representative for my Software Engineering cohort (2022-2026), successfully bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
+- **Communication & Management:** Served as the Class Representative for my Software Engineering cohort (2022-2026), successfully bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
 
 ---
 
 ## Professional Experience
 
-  - **Software Developer** | *Hashmi Innovation* <br>
+- **Software Developer** | *Hashmi Innovation* <br>
   *(Feb 2025 - Oct 2025)*
-  - **Mobile Developer Intern** | *Pakistan International Airlines (PIA)* <br>
+- **Mobile Developer Intern** | *Pakistan International Airlines (PIA)* <br>
   *(Jul 2024 - Aug 2024)*
-  - **Odoo Intern** | *Pakistan Aeronautical Complex (PAC) Kamra* <br>
+- **Odoo Intern** | *Pakistan Aeronautical Complex (PAC) Kamra* <br>
   *(Jan 2024 - Feb 2024)*
 
 ---
@@ -48,23 +48,23 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Choudhary-Khuzaim/GroceryApp">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=GroceryApp&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GroceryApp" width="48%" />
+  <a href="https://github.com/Choudhary-Khuzaim/Expense-Tracker">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Expense-Tracker&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Expense Tracker Swift" width="48%" />
   </a>
-  <a href="https://github.com/Choudhary-Khuzaim/Rolling-Wheel-Game">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Rolling-Wheel-Game&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Rolling Wheel Game" width="48%" />
+  <a href="https://github.com/Choudhary-Khuzaim/khabristan">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=khabristan&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Khabristan Flutter" width="48%" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Choudhary-Khuzaim/khabristan">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=khabristan&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Khabristan" width="48%" />
+  <a href="https://github.com/Choudhary-Khuzaim/Rolling-Wheel-Game">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Rolling-Wheel-Game&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Rolling Wheel 3D Game" width="48%" />
   </a>
   <a href="https://github.com/Choudhary-Khuzaim/Domotics">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Choudhary-Khuzaim&repo=Domotics&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Domotics" width="48%" />
   </a>
 </p>
 
-*(To see more of my work, including AI platforms like Rahzaan, Brandora, and e-commerce apps like DealZone, check out my [Portfolio](https://khuzaaim-portfolio.vercel.app)!)*
+*(To see more of my work, including mobile and web applications like Rydo and MealMate, check out my [Portfolio](https://khuzaaim-portfolio.vercel.app)!)*
 
 ---
 
