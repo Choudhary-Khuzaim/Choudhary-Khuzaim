@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm Muhammad Khuzaim Sajjad</h1>
+  <h1>Hi there, I'm Muhammad Khuzaim Sajjad </h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Developer;Unity+Game+Developer;Future+Cloud+%26+Cybersecurity+Specialist" alt="Typing SVG" />
-</div>
-
-<p align="center">
+  <br><br>
+  
   <a href="https://khuzaaim-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
@@ -13,35 +12,32 @@
   <a href="mailto:muhammadkhuzaimsajjad@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
 ---
 
 ## About Me
 
-I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a strong foundation in building scalable mobile, web, and interactive applications. Driven by clean architecture, user-centric UI design, and continuous learning, I am always eager to collaborate on innovative software products and full-stack engineering projects.
+I am a **Software Engineering graduate from KIET** with a strong foundation in building scalable mobile, web, and interactive applications. Driven by clean architecture, user-centric UI design, and continuous learning, I am always eager to collaborate on innovative software products and full-stack engineering projects.
 
-> **Current Focus:** Expanding my full-stack architectures while actively preparing to pursue a **Master's in Cybersecurity** **(Winter 2027/28 intake)**.
+> **Current Focus:** Expanding my full-stack architectures and preparing to pursue a **Master's in Cloud Computing & Cybersecurity** (Winter 2027/28 intake).
 
 - **Mobile Development:** Extensive experience working with **Flutter, Dart, Swift (iOS native with SwiftUI/MVVM), and React Native** to build seamless cross-platform and native apps.
 - **Web Development:** Architecting modern, responsive web platforms utilizing **Next.js, Tailwind CSS, Node.js, and Python**.
 - **Game Development:** Designing and developing engaging 3D interactive experiences using **Unity and C#**.
 - **Cloud & Infrastructure:** Hands-on experience with containerization, virtual environments, and scalable databases using **Docker, Linux, Cloud Firestore, and Firebase**.
-- **Data & AI:** Familiar with machine learning and data science workflows leveraging **Pandas, NumPy, Scikit-learn, and NLTK**.
+- **Data & AI:** Built "Rahzaan," an agentic AI-driven career counseling system, alongside utilizing data workflows with **Pandas, NumPy, Scikit-learn, and NLTK**.
 
 ### Leadership & Community
-- **Communication & Management:** Served as the Class Representative for my Software Engineering cohort (2022-2026), successfully bridging the gap between students and faculty, organizing study plans, and managing team dynamics.
+Served as the **Class Representative** for my Software Engineering cohort (2022-2026), successfully bridging the gap between students and faculty, organizing study plans, and managing team dynamics from the first semester through graduation.
 
 ---
 
 ## Professional Experience
 
-- **Software Developer** | *Hashmi Innovation* <br>
-  *(Feb 2025 - Oct 2025)*
-- **Mobile Developer Intern** | *Pakistan International Airlines (PIA)* <br>
-  *(Jul 2024 - Aug 2024)*
-- **Odoo Intern** | *Pakistan Aeronautical Complex (PAC) Kamra* <br>
-  *(Jan 2024 - Feb 2024)*
+- **Software Developer** | *Hashmi Innovation* <br> *(Feb 2025 - Oct 2025)*
+- **Mobile Developer Intern** | *Pakistan International Airlines (PIA)* <br> *(Jul 2024 - Aug 2024)*
+- **Odoo Intern** | *Pakistan Aeronautical Complex (PAC) Kamra* <br> *(Jan 2024 - Feb 2024)*
 
 ---
 
@@ -65,12 +61,12 @@ I am a **Software Engineering graduate from KIET (Batch 2022-2026)** with a stro
 </p>
 
 <p align="center">
-  <sub><i>To see more of my work, including apps like <b>Rydo</b> and <b>MealMate</b>, visit my <a href="https://khuzaaim-portfolio.vercel.app">Portfolio</a>!</i></sub>
+  <sub><i>To see more of my work, including apps like <b>Rydo</b>, <b>DealZone</b>, and <b>Travio</b>, visit my <a href="https://khuzaaim-portfolio.vercel.app">Portfolio</a>!</i></sub>
 </p>
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages & Core
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
